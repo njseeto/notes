@@ -76,9 +76,9 @@ One of the best ways to support good mental health practices in your organisatio
 So what can I do to support my team?
 
 - Be the one to reach out first
-- Listen and learn
-- Be an advocate
-- Avoid pushing unwanted advice (ie: try not to be a problem solver)
+- Listen and show empathy
+- Educate yourself about mental health
+- Ask how you can help
 - Be mindful of your language (ie. avoid saying words like ‘crazy’ or ‘insane’)
 
 With these mental health initiatives companies see a slew of benefits including a decrease in employee absenteeism, improved employee engagement, improved levels of trust in the workplace, decreased employee turnover, decreased errors and inefficiency and increased satisfaction with leadership. With these benefits, I think these mental health initiatives are well worth exploring.
@@ -103,7 +103,7 @@ One great tool is the [ScrollStopper](https://chrome.google.com/webstore/detail/
 Cleaning up your home screen to remove non-essential items is another practical way to disrupt the urge to mindlessly check apps. He also touched on society’s obsession with frantic multi-tasking and states we shouldn’t undervalue mindfulness.
 Don’t feel guilty about taking 5 minutes for yourself.
 
-Looking forward to future products, [Bradley Gabr-Ryn](https://twitter.com/trybradleyspoke about designing with mental health in mind. He encouraged people to design through understanding. He spoke about the importance of making no assumptions during the design stage and ensuring simple things such as colour and text are welcoming and approachable. Essentially value your customer’s time and design for people’s mental health, not their attention span.
+Looking forward to future products, [Bradley Gabr-Ryn](https://twitter.com/trybradley) spoke about designing with mental health in mind. He encouraged people to design through understanding. He spoke about the importance of making no assumptions during the design stage and ensuring simple things such as colour and text are welcoming and approachable. Essentially value your customer’s time and design for people’s mental health, not their attention span.
 
 I couldn’t agree more when Bradley so aptly stated:
 
