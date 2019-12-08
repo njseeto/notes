@@ -1,6 +1,6 @@
 ---
 title: "Command Line Basics"
-date: 2019-11-20T12:13:32+05:30
+date: 2019-12-08T12:13:32+05:30
 description: "sudo !!"
 disqus: false
 tags: [command-line]
@@ -16,7 +16,7 @@ draft: true
 There are 7 columns in total, here is what they mean:
 
 - Access rights
-- Number of hard links. This counts the children and parent directories; . and ..
+- Number of hard links. This counts the children and parent directories.
 - Username of the file’s owner
 - The name of the group that owns the file
 - The size of the file in bytes
@@ -40,7 +40,7 @@ It lists the files/directories in long form in order of when they were last modi
 
 **Moving**
 
-The below renames a file; batman.txt is renamed to spiderman.txt
+The below moves and renames a file; batman.txt is renamed to spiderman.txt
 
 <pre>mv batman.txt spiderman.txt</pre>
 
@@ -88,7 +88,7 @@ Above the `“Hello”` is the stdin and the `>` redirects this input into `hell
 
 `sort`
 
-This sorts the input in this case the information inside lakes.txt; this sorted list is then piped into a newly created file, sorted-lakes.txt
+This sorts the input in this case the information inside `lakes.txt`; this sorted list is then piped into a newly created file, `sorted-lakes.txt`
 
 
 `uniq`
