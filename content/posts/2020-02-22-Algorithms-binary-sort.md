@@ -54,7 +54,7 @@ Count them...
 
 100 → 50 → 25 → 13 → 7 → 4 → 2 → 1
 
-Far more efficient than simple search, which was a maximum of 100.
+Far more efficient than simple search, which has a maximum of 100.
 
 So how do we compare the efficiency between algorithms? 
 
@@ -135,7 +135,7 @@ Let's compare the running time for simple search vs binary search.
   </tr>
     <tr>
     <td>O(n!)</td>
-    <td>A really slow algorithm, like the traveling salesperson</td>
+    <td>A really slow algorithm, like the traveling salesperson<sup>1</sup></td>
   </tr>
 </table>
 
@@ -149,6 +149,7 @@ Let's compare the running time for simple search vs binary search.
 
 ____________
 
+<h6><sup>1</sup>  A salesman has to travel to every single city in an area, visiting each city only once. Additionally, he needs to end up in the same city where he starts his journey from. The problem is finding the most efficient way to do this. The problem gets exponentially more difficult to solve the more cities the salesperson needs to visit.</h6>
 
 <style>
 table {
